@@ -1,7 +1,7 @@
 # 💼 Análise de Dados Públicos: Créditos Ativos da Receita Federal (RFB)
 Neste projeto, realizei uma análise exploratória detalhada da base de Créditos Tributários Ativos sob Administração da Receita Federal do Brasil (RFB), disponibilizada como dado público. A iniciativa teve como objetivo gerar insights relevantes sobre o panorama da dívida ativa no país.
 
-*🔍 Principais insights:
+* 🔍 Principais insights:
   * A Pessoa Jurídica (PJ) concentra a maior parte das dívidas, somando mais de R$ 53 trilhões, enquanto a Pessoa Física (PF) representa cerca de R$ 1 trilhão.
 
   * O grupo IRPJ – Imposto de Renda da Pessoa Jurídica lidera em volume de dívidas, ultrapassando R$ 9 trilhões.
@@ -14,4 +14,4 @@ Neste projeto, realizei uma análise exploratória detalhada da base de Crédito
 
   * O maior pico de registro de dívidas ocorreu no final de Janeiro de 2025, chegando a R$ 2,6 trilhões em um único mês.
 
-*📊 A análise foi feita utilizando Python, com foco em bibliotecas como Pandas, Matplotlib e Seaborn.
+* 📊 A análise foi feita utilizando Python, com foco em bibliotecas como Pandas, Matplotlib e Seaborn.
